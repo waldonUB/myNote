@@ -1,4 +1,4 @@
-##rabbitmq简要安装教程
+### rabbitmq简要安装教程
 1.首先，您需要安装支持的 Windows 版Erlang。下载并运行Erlang for Windows 安装程序。
 2.运行RabbitMQ安装程序rabbitmq-server-3.7.3.exe
 3.该服务将使用其默认设置正常运行。你可以自定义RabbitMQ环境或编辑配置。 
